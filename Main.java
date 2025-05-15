@@ -8,6 +8,8 @@ public class Main {
         int num = 2;
     System.out.println("AHHHHHHHHHHHHHHHHHHHH");
     System.out.println(num);
+    String nombre2 = "Edward";
+    System.out.println(nombre2);
     }
 
 }
