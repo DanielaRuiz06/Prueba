@@ -6,4 +6,5 @@ public class Main {
         String nombre = "Juan";
         System.out.println("Hola " + nombre);
     }
+
 }
